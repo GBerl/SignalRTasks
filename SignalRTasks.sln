@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRTasks.Web", "SignalRTasks.Web\SignalRTasks.Web.csproj", "{27C11BD8-F75E-4221-AA45-EC1673520C90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRTasks.Data", "SignalRTasks.Data\SignalRTasks.Data.csproj", "{5031A07B-B002-4BB4-8F12-351CF842EE12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27C11BD8-F75E-4221-AA45-EC1673520C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C11BD8-F75E-4221-AA45-EC1673520C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C11BD8-F75E-4221-AA45-EC1673520C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C11BD8-F75E-4221-AA45-EC1673520C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5031A07B-B002-4BB4-8F12-351CF842EE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5031A07B-B002-4BB4-8F12-351CF842EE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5031A07B-B002-4BB4-8F12-351CF842EE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5031A07B-B002-4BB4-8F12-351CF842EE12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C98AADFC-4D40-4A0E-9181-5B2A8ECAC237}
+	EndGlobalSection
+EndGlobal
